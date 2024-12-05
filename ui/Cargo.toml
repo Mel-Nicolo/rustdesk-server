@@ -1,5 +1,5 @@
 [package]
-name = "rustdesk_server"
+name = "rustdesk_server_forAY"
 version = "0.1.2"
 description = "rustdesk server gui"
 authors = ["elilchen"]
